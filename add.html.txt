@@ -1,0 +1,9 @@
+<Doctype! html>
+<html>
+<head>
+<title>My docs</title>
+</head>
+<body>
+<h1>HELLO</h1>
+<body>
+</html>
